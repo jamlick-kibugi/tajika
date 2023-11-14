@@ -91,7 +91,28 @@
             transition-colors
             duration-200
           "
-          href="https://www.vishnuraghav.com/donate"
+          href="https://www.myeneza.co.ke/auth"
+          target="_blank"
+          rel="noreferrer"
+          >Login/Register</a
+        >
+		   <a
+          class="
+            font-extrabold
+            tracking-wide
+            leading-none
+            shrink-0
+            p-3
+            border-2
+            text-white
+            border-gray-700
+            rounded
+            hover:bg-gray-700
+            focus:bg-gray-700
+            transition-colors
+            duration-200
+          "
+          href="https://www.myeneza.co.ke/activate"
           target="_blank"
           rel="noreferrer"
           >Pricing</a
@@ -2080,7 +2101,7 @@ export default {
           })
           let guide = new Blob(
             [
-              '<html><head><meta http-equiv="refresh" content="0; url=https://enbizcard.vishnuraghav.com/hosting-guide" /></head></html>',
+              '<html><head><meta http-equiv="refresh" content="0; url=/hosting-guide" /></head></html>',
             ],
             {
               type: 'text/html',

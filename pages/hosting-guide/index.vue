@@ -6,7 +6,7 @@
           <div
             class="logo w-24"
             v-html="require(`~/assets/icons/logo.svg?include`)"
-            title="Tajika - An Open-Source Digital Business Card Generator"
+            title="My Eneza - An Open-Source Digital Business Card Generator"
           ></div
         ></NuxtLink>
         <a
@@ -80,7 +80,7 @@
               <NuxtLink
                 to="/"
                 class="underline font-extrabold text-emerald-600 hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-                >Tajika</NuxtLink
+                >My Eneza</NuxtLink
               >.
             </li>
             <li>
@@ -170,7 +170,7 @@
             How do I update my business card details?
           </h3>
           <p class="mt-6">
-            Tajika does not store any data online for you to retrieve it for
+            My Eneza does not store any data online for you to retrieve it for
             editing. So, every card has to be manually created from scratch.
           </p>
           <ul class="px-6 mt-6 list-outside list-disc">
@@ -179,7 +179,7 @@
               <NuxtLink
                 to="/"
                 class="underline font-extrabold text-emerald-600 hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-                >Tajika</NuxtLink
+                >My Eneza</NuxtLink
               >
               and generate a new digital business card.
             </li>
@@ -203,7 +203,7 @@
               <NuxtLink
                 to="/"
                 class="underline font-extrabold text-emerald-600 hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-                >Tajika</NuxtLink
+                >My Eneza</NuxtLink
               >
               and generate a digital business card.
             </li>
