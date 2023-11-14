@@ -11,9 +11,9 @@
         ></NuxtLink>
         <a
           class="font-extrabold tracking-wide leading-none shrink-0 p-3 border-2 text-white border-gray-700 rounded hover:bg-gray-700 focus:bg-gray-700 transition-colors duration-200"
-          href="https://www.vishnuraghav.com/donate"
+          href="https://www.myeneza.co.ke/activate"
           target="_blank"
-          >Donate</a
+          >Pricing</a
         >
       </div>
       <div id="guide" class="max-w-screen-sm">
@@ -89,7 +89,7 @@
               files and share the link to this
               <a
                 class="underline font-extrabold text-emerald-600 hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-                href="https://enbizcard.vishnuraghav.com/hosting-guide"
+                href="/hosting-guide"
                 target="_blank"
                 >Hosting Guide</a
               >.
@@ -157,10 +157,10 @@
             these platforms, You can always
             <a
               class="underline text-emerald-600 font-extrabold hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-              href="https://t.me/enbizcard"
+              href="https://wa.me/<254702777574>"
               target="_blank"
               rel="noopener noreferrer"
-              >join the telegram group</a
+              >Chat on Whatsapp</a
             >
             and ask it.
           </p>
@@ -223,13 +223,13 @@
       </div>
       <Help />
       <div class="mt-24">
-        Help me improve this guide on
+        For more info Contact us 0n
         <a
           class="underline text-emerald-600 font-extrabold hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-          href="https://github.com/vishnuraghavb/Tajika"
+          href="https://wa.me/<254702777574>"
           target="_blank"
           rel="noopener noreferrer"
-          >GitHub</a
+          >0702777574</a
         >
       </div>
     </div>
