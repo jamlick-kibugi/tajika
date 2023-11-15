@@ -130,16 +130,15 @@
        New Heights , New Possibilies!
       </h1>
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
-        MyEneza robust, responsive HTML-based digital business cards and mini web for individuals and businesses..
-		A digital business card is the modern way to exchange contact information. Also known as virtual and electronic business cards, digital business cards are highly customizable, interactive, simple to share, and cost-effective alternatives to physical cards.
+        MyEneza robust, responsive HTML-based digital business cards and mini web for individuals and businesses.
       </p>
       <ul class="mt-4 text-gray-400">
-        <li>-&ensp;Share your contact details and links to your website, all of your social channels.</li>
-        <li>-&ensp;Direct vCard download (lets user download your contact information to their phone)</li>
+        <li>-&ensp;Share your contacts,links and social channels.</li>
+        <li>-&ensp;Direct contacts download to phone</li>
         <li>-&ensp;Share your card with anyone using QR-code or link</li>
-		 <li>-&ensp;Embed any kind of HTML content (videos, music, maps, contact forms, you name it.</li>
-		  <li>-&ensp;Track your audience with analytics.</li>
-        <li>-&ensp;Showcase images, artworks, music, videos, poems, brochures, products, services or anything up to your imagination</li>
+		 <li>-&ensp;Embed HTML content (videos, music, maps, contact forms,etc).</li>
+		  <li>-&ensp;Track  audience with  analytics.</li>
+        <li>-&ensp;Showcase images, artworks, music, videos, poems, brochures, products, services</li>
       </ul>
       <div class="mt-4 flex flex-wrap items-center">
         <button

@@ -17,10 +17,10 @@
           <meta v-if="!PreviewMode" name="robots" content="noindex, nofollow" />
           <meta
             name="author"
-            content="Tajika - An Open-Source Digital Business Card Generator"
+            content="My Eneza - Digital Business Card and Mini Web"
           />
-          <meta name="url" content="https://enbizcard.vishnuraghav.com/" />
-          <meta name="designer" content="Vishnu Raghav" />
+          <meta name="url" content="https://myeneza.co.ke/aboutus" />
+          <meta name="designer" content="Atticus Media" />
           <meta
             property="og:title"
             :content="`${getFullname}'s Digital Business Card`"
@@ -344,10 +344,10 @@
             Created with
             <a
               class="textColor"
-              href="https://enbizcard.vishnuraghav.com/"
+              href="https://www.myeneza.co.ke/aboutus"
               target="_blank"
               rel="noopener noreferrer"
-              >Tajika</a
+              >My Eneza</a
             >
           </footer>
         </body>

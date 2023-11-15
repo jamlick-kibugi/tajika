@@ -10,7 +10,7 @@
         <br />
         Generator
       </p> -->
-      <p class="font-extrabold text-xl mt-2 leading-tight">Tajika</p>
+      <p class="font-extrabold text-xl mt-2 leading-tight">My Eneza</p>
     </div>
     <p class="mt-6 text-center text-gray-400">
       Powered By      <a
