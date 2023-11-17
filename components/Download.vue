@@ -1,6 +1,6 @@
 <template>
   <div id="downloadSection" class="mt-16">
-    <h2 class="font-extrabold text-2xl">Download</h2>
+    <h2 class="font-extrabold text-2xl">Generate</h2>
     <div class="stepC mt-6">
       <p>Please complete the checklist to proceed,</p>
       <Check
@@ -17,7 +17,7 @@
         :title="
           downloadChecked
             ? ''
-            : 'Complete the checklist to download the package'
+            : 'Complete the checklist to generate the package'
         "
         :class="
           downloadChecked

@@ -1090,6 +1090,8 @@ import Theme2 from '!!raw-loader!~/assets/styles/T2.min.css'
 import Theme3 from '!!raw-loader!~/assets/styles/T3.min.css'
 import { mapState, mapActions } from 'vuex'
 
+import axios from 'axios';
+
 export default {
   components: {
     Cropper,
@@ -2184,6 +2186,35 @@ export default {
             })
             .then(function (zip) {
               saveAs(zip, `${name}'s Digital Business Card.zip`)
+			  
+			  
+			  
+			    let fileData = new FormData()
+            fileData.append("file", test.zip)
+
+            let config = { headers: {
+                    'Content-Type': 'multipart/form-data'
+                }}
+            let url = '/backend'
+
+            axios.post(url, fileData,config)
+               .then(function(){
+          console.log('SUCCESS!!')
+        })
+        .catch(function(){
+          console.log('FAILURE!!')
+        })
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
+			  
             })
           this.PreviewMode = true
         }, 250)

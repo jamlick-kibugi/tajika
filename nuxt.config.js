@@ -249,7 +249,7 @@ export default {
     },
   },
   generate: {
-    dir: 'public',
+    dir: 'dist',
     fallback: true,
   },
   telemetry: false,
